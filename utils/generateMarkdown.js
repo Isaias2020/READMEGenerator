@@ -1,6 +1,6 @@
 function generateMarkdown(answers) {
   return `
-# Title:  ${answers.Projectsname}
+# ${answers.Projectsname}
 
 ## Description 
 
@@ -20,7 +20,13 @@ ${answers.Description}
 
 * Questions
 
-${answers.Dependencies}
+## Installation
+ 
+Installation needed for generator to work.
+
+  \`\`\`
+  ${ answers.Dependencies}
+  \`\`\`
 
 Email: ${answers.email}
 

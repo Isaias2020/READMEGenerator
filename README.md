@@ -1,5 +1,5 @@
 
-# Title:  ReadMe Generator
+# README GENERATOR
 
 ## Description 
 
@@ -19,7 +19,13 @@ This is a readme generator I made to use for my future projects.
 
 * Questions
 
-npm install
+## Installation
+ 
+Installation needed for generator to work.
+
+  ```
+  npm install
+  ```
 
 Email: quintanillaisaias@gmail.com
 
