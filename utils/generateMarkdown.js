@@ -1,6 +1,10 @@
-function generateMarkdown(data) {
+function generateMarkdown(answers) {
   return `
-# ${data.title}
+# Title:  ${answers.Projectsname}
+
+Email: ${answers.email}
+
+
 
 `;
 }
