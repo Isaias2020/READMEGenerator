@@ -37,7 +37,7 @@ Installation needed for generator to work.
 ## Tests
 
 ## Questions
-
+${answers.image}
 Email: ${answers.email}
 
 

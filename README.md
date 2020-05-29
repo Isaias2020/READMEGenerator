@@ -24,7 +24,7 @@ This is a readme generator I made to use for my future projects.
 Installation needed for generator to work.
 
   ```
-  npm install
+  npm i
   ```
 
 ## Usage
@@ -36,7 +36,7 @@ Installation needed for generator to work.
 ## Tests
 
 ## Questions
-
+https://avatars.githubusercontent.com/u/59813695?
 Email: quintanillaisaias@gmail.com
 
 
