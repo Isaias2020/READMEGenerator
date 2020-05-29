@@ -21,12 +21,22 @@ ${answers.Description}
 * Questions
 
 ## Installation
- 
+
 Installation needed for generator to work.
 
   \`\`\`
   ${ answers.Dependencies}
   \`\`\`
+
+## Usage
+
+## License
+
+## Contributing 
+
+## Tests
+
+## Questions
 
 Email: ${answers.email}
 

@@ -20,12 +20,22 @@ This is a readme generator I made to use for my future projects.
 * Questions
 
 ## Installation
- 
+
 Installation needed for generator to work.
 
   ```
   npm install
   ```
+
+## Usage
+
+## License
+
+## Contributing 
+
+## Tests
+
+## Questions
 
 Email: quintanillaisaias@gmail.com
 
