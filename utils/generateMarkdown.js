@@ -6,6 +6,22 @@ function generateMarkdown(answers) {
 
 ${answers.Description}
 
+## Table of Contents
+
+* Installation
+
+* Usage
+
+* License
+
+* Contributing
+
+* Tests
+
+* Questions
+
+${answers.Dependencies}
+
 Email: ${answers.email}
 
 
