@@ -1,5 +1,10 @@
 
-# Readme Generator
+# ReadMe Generator
+
+<p>
+<a>
+<img src="https://img.shields.io/badge/License-MIT-blueviolet"/></a>
+</p>
 
 ## Description 
 
@@ -49,6 +54,7 @@ npm run test
 
 ## Questions
 Isaias2020
+<br>
 <img src="https://avatars.githubusercontent.com/u/59813695?" height="100" style="border-radius:50%">
 If you have any questions please feel free to reach out to me at quintanillaisaias@gmail.com.
 

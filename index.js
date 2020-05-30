@@ -13,6 +13,12 @@ const questions = [
     },
     {
         type: "questions",
+        name: "email",
+        message: "What is your email address?",
+        default: "quintanillaisaias@gmail.com"
+    },
+    {
+        type: "questions",
         name: "Projectsname",
         message: "What is your project's name?",
     },
