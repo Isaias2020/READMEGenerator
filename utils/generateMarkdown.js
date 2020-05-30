@@ -25,14 +25,16 @@ ${answers.Description}
 Installation needed for generator to work.
 
   \`\`\`
-  ${ answers.Dependencies}
+  ${answers.Installation}
   \`\`\`
 
 ## Usage
 
 ## License
 
-## Contributing 
+## Contributor
+
+${answers.Contributor}
 
 ## Tests
 

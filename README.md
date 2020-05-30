@@ -24,14 +24,16 @@ This is a readme generator I made to use for my future projects.
 Installation needed for generator to work.
 
   ```
-  undefined
+  npm install
   ```
 
 ## Usage
 
 ## License
 
-## Contributing 
+## Contributor
+
+Isaias Quintanilla 
 
 ## Tests
 
