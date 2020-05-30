@@ -7,24 +7,24 @@ This is a readme generator I made to use for my future projects.
 
 ## Table of Contents
 
-* Installation
+* [Installation](#Dependencies)
 
-* Usage
+* [Usage](#Usage)
 
-* License
+* [License](#License)
 
-* Contributing
+* [Contributing](#Contribute)
 
-* Tests
+* [Tests](#Runtests)
 
-* Questions
+* [Questions](#Questions)
 
 ## Installation
 
 Installation needed for generator to work.
 
   ```
-  npm i
+  npm install
   ```
 
 ## Usage
@@ -36,8 +36,7 @@ Installation needed for generator to work.
 ## Tests
 
 ## Questions
+
 https://avatars.githubusercontent.com/u/59813695?
-Email: quintanillaisaias@gmail.com
-
-
+If you have any questions please feel free to reach out to me at quintanillaisaias@gmail.com.
 

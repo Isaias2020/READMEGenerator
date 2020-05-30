@@ -8,17 +8,17 @@ ${answers.Description}
 
 ## Table of Contents
 
-* Installation
+* [Installation](#Dependencies)
 
-* Usage
+* [Usage](#Usage)
 
-* License
+* [License](#License)
 
-* Contributing
+* [Contributing](#Contribute)
 
-* Tests
+* [Tests](#Runtests)
 
-* Questions
+* [Questions](#Questions)
 
 ## Installation
 
@@ -37,10 +37,9 @@ Installation needed for generator to work.
 ## Tests
 
 ## Questions
+
 ${answers.image}
-Email: ${answers.email}
-
-
+If you have any questions please feel free to reach out to me at ${answers.email}.
 
 `;
 }
