@@ -28,12 +28,12 @@ const questions = [
     },
     {
         type: "questions",
-        name: "Dependencies",
+        name: "Installation",
         message: "What command should be run to install dependencies?",
     },
     {
         type: "questions",
-        name: "Runtests",
+        name: "Tests",
         message: "What command should be run to run tests?",
     },
     {
@@ -43,8 +43,8 @@ const questions = [
     },
     {
         type: "questions",
-        name: "Contribute",
-        message: "What does the user need to know about contributing to the repo?",
+        name: "Contributor",
+        message: "What are the names/contributors that worke on this project?",
     }
 ];
 

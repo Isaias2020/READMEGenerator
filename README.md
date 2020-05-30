@@ -7,15 +7,15 @@ This is a readme generator I made to use for my future projects.
 
 ## Table of Contents
 
-* [Installation](#Dependencies)
+* [Installation](#Installation)
 
 * [Usage](#Usage)
 
 * [License](#License)
 
-* [Contributing](#Contribute)
+* [Contributor](#Contributor)
 
-* [Tests](#Runtests)
+* [Tests](#Tests)
 
 * [Questions](#Questions)
 
@@ -24,7 +24,7 @@ This is a readme generator I made to use for my future projects.
 Installation needed for generator to work.
 
   ```
-  npm install
+  undefined
   ```
 
 ## Usage

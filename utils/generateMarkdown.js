@@ -8,15 +8,15 @@ ${answers.Description}
 
 ## Table of Contents
 
-* [Installation](#Dependencies)
+* [Installation](#Installation)
 
 * [Usage](#Usage)
 
 * [License](#License)
 
-* [Contributing](#Contribute)
+* [Contributor](#Contributor)
 
-* [Tests](#Runtests)
+* [Tests](#Tests)
 
 * [Questions](#Questions)
 
