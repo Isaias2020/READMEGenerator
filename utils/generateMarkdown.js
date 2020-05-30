@@ -30,13 +30,23 @@ Installation needed for generator to work.
 
 ## Usage
 
+${answers.Usage}
+
 ## License
+
+${answers.License}
 
 ## Contributor
 
 ${answers.Contributor}
 
 ## Tests
+
+To run tests run the following command: 
+
+\`\`\`
+${answers.Tests}
+\`\`\`
 
 ## Questions
 

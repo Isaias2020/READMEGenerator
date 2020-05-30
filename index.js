@@ -38,8 +38,9 @@ const questions = [
     },
     {
         type: "questions",
-        name: "Repo",
+        name: "Usage",
         message: "What does the user need to know about using the repo?",
+        default: "This is an open source application, anyone can contribute to this."
     },
     {
         type: "questions",

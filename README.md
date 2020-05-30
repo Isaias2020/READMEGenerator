@@ -29,13 +29,25 @@ Installation needed for generator to work.
 
 ## Usage
 
+```
+This is an open source application, anyone can contribute to this.
+```
+
 ## License
+
+MIT
 
 ## Contributor
 
-Isaias Quintanilla 
+Isaias Quintanilla
 
 ## Tests
+
+To run tests run the following command: 
+
+```
+npm run test
+```
 
 ## Questions
 
