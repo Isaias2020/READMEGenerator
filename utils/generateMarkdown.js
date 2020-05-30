@@ -49,8 +49,8 @@ ${answers.Tests}
 \`\`\`
 
 ## Questions
-
-${answers.image}
+${answers.Username}
+<img src="${answers.image}" height="100" style="border-radius:50%">
 If you have any questions please feel free to reach out to me at ${answers.email}.
 
 `;

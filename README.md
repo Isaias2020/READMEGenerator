@@ -1,5 +1,5 @@
 
-# README GENERATOR
+# Readme Generator
 
 ## Description 
 
@@ -48,7 +48,7 @@ npm run test
 ```
 
 ## Questions
-
-https://avatars.githubusercontent.com/u/59813695?
+Isaias2020
+<img src="https://avatars.githubusercontent.com/u/59813695?" height="100" style="border-radius:50%">
 If you have any questions please feel free to reach out to me at quintanillaisaias@gmail.com.
 
