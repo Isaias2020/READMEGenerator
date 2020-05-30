@@ -29,9 +29,7 @@ Installation needed for generator to work.
 
 ## Usage
 
-```
 This is an open source application, anyone can contribute to this.
-```
 
 ## License
 
